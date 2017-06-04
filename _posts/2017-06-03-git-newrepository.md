@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "git repository!"
+title:  "[git] repository!"
 date:   2017-06-03 23:12:05 +0900
 categories: jekyll update
+category: git
 ---
 ## Git repository 설정
 

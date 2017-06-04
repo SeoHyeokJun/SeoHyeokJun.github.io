@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "git branch!"
+title:  "[git] branch!"
 date:   2017-06-03 23:12:05 +0900
 categories: jekyll update
+category: git
 ---
 Branch 관련된 명령어 모음
 -------------

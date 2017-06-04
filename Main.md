@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Main
 permalink: /main/
 ---

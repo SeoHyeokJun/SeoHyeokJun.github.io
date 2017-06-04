@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "git first step"
+title:  "[git] first step"
 date:   2017-06-03 23:12:05 +0900
 categories: jekyll update
+category: git
 ---
 Git 시작 세팅
 -------------
 
->#### remote 저장소 clone
+#### remote 저장소 clone
 ~~~~
 $ git clone URL
 ~~~~
 
->#### 현재 파일 or 수정이 필요한지 status checkout
+#### 현재 파일 or 수정이 필요한지 status checkout
 ~~~~
 $ git status
 ~~~~
@@ -28,7 +29,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ~~~~
 
->#### New add file 은 add해줘야함
+#### New add file 은 add해줘야함
 ~~~~
 $ git add 'New added file'
 ~~~~
@@ -45,7 +46,7 @@ Changes to be committed:
 	new file:   mon/git_firstStep.md
 ~~~~
 
->#### Tracked 파일의 modified file stage 하기
+#### Tracked 파일의 modified file stage 하기
 ~~~~
 $ git add 'Modified file'
 ~~~~
