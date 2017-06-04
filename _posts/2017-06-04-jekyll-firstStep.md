@@ -15,7 +15,7 @@ Jekyll
 * 자유롭게 나만의 형식으로 블로그를 제작할 수 있음
 
 
-##### 아래부턴 Jekyll 을 시작하기 위한 간단한 스텝들을 정리해 놓았다.
+### 아래부턴 Jekyll 을 시작하기 위한 간단한 스텝들을 정리해 놓았다.
 (mac os를 사용하므로, 모든 기준은 mac os임)
 
 1. Jekyll 설치 (Use ruby)
@@ -36,7 +36,7 @@ $ jekyll new username.github.io
 $ jekyll serve
 ~~~~
 
-##### Git 세팅
+### Git 세팅
  1. Github page 만들기
   * Github main에서 New repository 클릭후 "username.github.io"의 이름으로 repository 생성
 
