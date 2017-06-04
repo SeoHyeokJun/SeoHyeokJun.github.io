@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to!"
-date:   2017-06-02 23:12:05 +0900
+date:   2017-06-02 23:12:05
 categories: jekyll update
 category: git
 ---
