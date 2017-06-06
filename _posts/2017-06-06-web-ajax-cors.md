@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Web] CORS와 JSONP란?"
+title:  "[Web] CORS란?"
 date:   2017-06-06 23:50:32
 categories: jekyll update
 category: web
@@ -11,8 +11,7 @@ CORS란?
 [CORS](https://www.w3.org/TR/cors/)를 언급하기 전, 먼저 SOP에 대해서 집고 넘어가야한다.
 
 > #### SOP (Same Origin Policy)
-
-> Ajax 통신을 할 때, 현재 domain(origin)에선 같은 domain만 ajax통신을 할 수 있다는 정책
+ Ajax 통신을 할 때, 현재 domain(origin)에선 같은 domain만 ajax통신을 할 수 있다는 정책
 
 SOP정책은 MS에서 XmlHttpRequest를 만들때 당연하다고 생각하고 만들었으나, 현재로썬 가장 큰 걸림돌이 되었다고 한다. (openAPI등..)
 
