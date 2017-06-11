@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[jekyll] Paginate 적용후 Dependency error!"
+title:  '[jekyll] Paginate 적용후 Dependency error!'
 date:   2017-06-04 23:05:47
 categories: jekyll update
 category: jekyll

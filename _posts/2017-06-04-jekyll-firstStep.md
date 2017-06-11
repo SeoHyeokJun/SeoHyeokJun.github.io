@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[jekyll] install, git 기본세팅 (first steps)!"
+title:  '[jekyll] install, git 기본세팅 (first steps)!'
 date:   2017-06-04 23:04:30
 categories: jekyll update
 category: jekyll
