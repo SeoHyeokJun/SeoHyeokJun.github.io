@@ -4,6 +4,7 @@ title:  "[git] branch!"
 date:   2017-06-03 23:12:05
 categories: jekyll update
 category: git
+comments : true
 ---
 Branch 관련된 명령어 모음
 -------------

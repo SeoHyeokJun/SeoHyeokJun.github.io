@@ -4,6 +4,7 @@ title:  "[git] first step"
 date:   2017-06-03 23:10:05
 categories: jekyll update
 category: git
+comments : true
 ---
 Git 시작 세팅
 -------------

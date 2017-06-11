@@ -4,6 +4,7 @@ title:  "[git] repository!"
 date:   2017-06-03 23:12:05
 categories: jekyll update
 category: git
+comments : true
 ---
 ## Git repository 설정
 
