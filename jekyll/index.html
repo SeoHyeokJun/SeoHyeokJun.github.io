@@ -1,0 +1,9 @@
+---
+layout: 적용할 레이아웃이름
+---
+<ul id="post-list">
+    {% for post in site.categories.카테고리이름 %}
+        {% include 리스트레이아웃.html %}
+    {% endfor %}
+</ul>
+{% include pagination.html %}

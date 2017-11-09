@@ -2,7 +2,7 @@
 layout: post
 title: '[git] conflict'
 date:   2017-06-03 23:13:05
-categories: jekyll update
+categories: [jekyll, update]
 category: git
 comments : true
 ---
