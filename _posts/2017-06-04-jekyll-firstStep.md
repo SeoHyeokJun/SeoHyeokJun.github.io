@@ -2,7 +2,7 @@
 layout: post
 title:  '[jekyll] install, git 기본세팅'
 date:   2017-06-04 23:04:30
-categories: jekyll update
+categories: jekyll
 category: jekyll
 comments : true
 ---

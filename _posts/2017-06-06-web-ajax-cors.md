@@ -2,7 +2,7 @@
 layout: post
 title:  '[Web] CORS란?'
 date:   2017-06-06 23:50:32
-categories: jekyll update
+categories: web
 category: web
 comments : true
 ---

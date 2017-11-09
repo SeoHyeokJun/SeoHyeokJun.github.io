@@ -2,7 +2,7 @@
 layout: post
 title: '[git] branch'
 date:   2017-06-03 23:12:05
-categories: [jekyll, update]
+categories: git
 category: git
 comments : true
 ---
