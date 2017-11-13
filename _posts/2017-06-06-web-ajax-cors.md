@@ -23,7 +23,7 @@ CORS를 간단히 말하자면, 서버가 허락한다면 CrossDomain이라도 �
 
 그 허락은 클라이언트 측에선 특별히 할건 없고, 서버측에서 Access-Control-Allow-"" header로 허용하는 client를 기재하면 된다.
 
-~~~~
+~~~~javascript
 response.header("Access-Control-Allow-Origin" , "*") //모든 client 접근 허용
 response.header("Access-Control-Allow-Origin" , "Cross domain") // 특정 domain의 접근 허용
 ~~~~
