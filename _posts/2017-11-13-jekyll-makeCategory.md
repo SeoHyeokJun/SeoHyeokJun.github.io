@@ -47,4 +47,4 @@ Jekyll - category setting
 ~~~~
 
   - 완성
-  ![image](./makecategory.png)
+  ![makecategory](makecategory.png)
