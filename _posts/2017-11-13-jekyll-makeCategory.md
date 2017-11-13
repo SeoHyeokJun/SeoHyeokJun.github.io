@@ -25,11 +25,11 @@ Jekyll - category setting
 
 3. CATEGORY_NAME.html 코드
 ~~~~
-  ---
-  layout: category
-  title: Git
-  category: git
-  ---
+  	---
+	  layout: category
+	  title: Git
+	  category: git
+	---
 ~~~~
 
 4. _layouts 폴더엔 category.html 을 생성한다. (각category 클릭시 layout이 된다.)
@@ -46,5 +46,7 @@ Jekyll - category setting
   {% endfor %}
 ~~~~
 
+
   - 완성
-  ![makecategory](makecategory.png)
+
+  ![makecategory](https://raw.githubusercontent.com/SeoHyeokJun/SeoHyeokJun.github.io/master/makecategory.png)
