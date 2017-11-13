@@ -34,6 +34,7 @@ Jekyll - category setting
 
 4. _layouts 폴더엔 category.html 을 생성한다. (각category 클릭시 layout이 된다.)
 5. category.html 코드는 custom 하게 만들기
+
 ~~~HTML
   ---
   layout: page
