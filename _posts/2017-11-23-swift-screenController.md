@@ -24,7 +24,7 @@ let storyboardInstance = self.storyboard?.instantiateViewController(withIdentifi
 storyboardInstance?.modalTransitionStyle = UIModalTransitionStyle.flipHorizontal
 self.present(storyboardInstance!, animated: true, completion: nil)
  ```
- ![makecategory]({{site.url}}/2017-11-23-swift-screenController.png)
+ ![swift-screenController]({{site.url}}/2017-11-23-swift-screenController.png)
 
 3. Navigation controller를 이용하여 화면 전환
  - 각 NavigationController를 연결시킨다. (StoryBoard에서 화살표로) => 사이트 [참조](http://blog.naver.com/PostView.nhn?blogId=baek2304&logNo=220885876605&parentCategoryNo=68&categoryNo=&viewDate=&isShowPopularPosts=true&from=search)
@@ -45,5 +45,5 @@ self.present(storyboardInstance!, animated: true, completion: nil)
  ```
  - 아래 그림과 같이 widthIdentifier에 들어갈 parameter를 설정해놓으면, SegueWay를 통해 화면 전환이 가능하다.
 
- ![makecategory]({{site.url}}/2017-11-23-swift-screenController2.png)
- ![makecategory]({{site.url}}/2017-11-23-swift-screenController3.png)
+ ![swift-screenController2]({{site.url}}/2017-11-23-swift-screenController2.png)
+ ![swift-screenController3]({{site.url}}/2017-11-23-swift-screenController3.png)
